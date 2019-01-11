@@ -1,7 +1,7 @@
 # MERN Stack Boilerplate with Redux
 Simple MERN Stack app with redux store. Contains common use cases to serve as a boilerplate
 
-Follow [this link](https://mern-redux-app.herokuapp.com/){:target="_blank"} for live demo
+Follow [this link](https://mern-redux-app.herokuapp.com/) for live demo
 
 ### Setup
 This app requires MongoDB setup. This is assumed as a pre-requisite. I have used mLab for the same just to avoid DB server setup. Once you get your connection URL from mLab, just paste it in your `config/keys.js` file for it look like this:
